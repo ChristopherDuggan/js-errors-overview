@@ -76,6 +76,11 @@ When you encounter a bug, your first instinct may be to dive into debugging and 
 
 Next, we will get some practice putting these concepts to use with a mini lab on debugging JavaScript errors linked [here](https://git.generalassemb.ly/sei-921/js-debugging-errors). 
 
+## Hungry for More? 
+
+- Check out this [repo](https://git.generalassemb.ly/sei-921/intro-to-debugging) for info on console methods beyond `log` and built-in debugger tools in Chrome and VS Code. 
+- Use the Error object to throw custom error messages and learn more about error handling in this [article](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6).  
+
 ### Sources/Attributions
 - [W3 Schools on JS Errors](https://www.bugsnag.com/blog/anatomy-of-a-javascript-error)
 - [Anatomy of a JS Error by BugSnap](https://www.bugsnag.com/blog/anatomy-of-a-javascript-error)
