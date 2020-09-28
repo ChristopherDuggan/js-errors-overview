@@ -33,10 +33,14 @@ Just like anything else we teach you in this course, debugging is a _SKILL_ -- y
 
 JavaScript has a built-in global Error object that returns very specific and helpful information when there is a bug in your code. The most common Error Types we will see are as follows: 
 
-- **ReferenceError:** Raised when an invalid reference is used (e.g., referencing an undefined variable, typo in variable name)
-- **SyntaxError:** Raised when a syntax error occurs while parsing JavaScript code (e.g., missing curly brackets)
-- **TypeError:** Raised when the type of a variable is not as expected (e.g., passing in a Number instead of a String, trying to call an array method on a data type that is not an array)
+**ReferenceError:** Raised when an invalid reference is used (e.g., referencing an undefined variable, typo in variable name)
+![](https://i.imgur.com/cJ2ABNl.png)
 
+**SyntaxError:** Raised when a syntax error occurs while parsing JavaScript code (e.g., missing curly brackets)
+![](https://i.imgur.com/VGdz0zs.png)
+
+**TypeError:** Raised when the type of a variable is not as expected (e.g., passing in a Number instead of a String, trying to call an array method on a data type that is not an array)
+![](https://i.imgur.com/SKTtkuH.png)
 ## A Methodical Approach to Debugging
 
 ![Debugging definition](https://i.imgur.com/KPwphh7.jpg)
