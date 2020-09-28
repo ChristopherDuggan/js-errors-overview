@@ -31,7 +31,7 @@ Just like anything else we teach you in this course, debugging is a _SKILL_ -- y
 
 ## JS Error Messages 
 
-JavaScript has a built-in global Error object that returns very specific and helpful information when there is a bug in your code. The most common Error Types we will see are as follows: 
+JavaScript has a built-in global [Error](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) object that returns very specific and helpful information when there is a bug in your code. The most common Error Types we will see are as follows: 
 
 **ReferenceError:** Raised when an invalid reference is used (e.g., referencing an undefined variable, typo in variable name)
 
