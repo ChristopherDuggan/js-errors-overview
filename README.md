@@ -42,10 +42,13 @@ JavaScript has a built-in global [Error](https://developer.mozilla.org/en-US/doc
 ### Error Message Practice
 
 For each of the error messages below, identify the following: 
+<br>
 A. The type of error being raised
+<br>
 B. The file name and line number of the error
+<br>
 C. The likely cause of the error
-
+<br>
 1. ![](https://i.imgur.com/SKTtkuH.png)
 
 2. ![](https://i.imgur.com/cJ2ABNl.png)
@@ -61,8 +64,7 @@ When you encounter a bug, your first instinct may be to dive into debugging and 
 
 1. **What is my error and where is it?**
     - Define your error in the simplest terms possible. (JS's error message often does this for you, e.g., 'SyntaxError'.)
-    - Know your six basic types of [JavaScript errors](https://www.htmlgoodies.com/html5/javascript/handling-javascript-errors-by-type.html) and what they mean.
-    - Narrow down the location of your bug to the file, code block, and line if you can.
+    - Narrow down the location of your bug to the file, code block, and line if you can. Look for the red squiggly lines in your code editor that indicate problems.
     - JavaScript often gives file and line numbers in its error messages, which can point you in the right direction.
 2. **What is causing my error?**
     - Read the content of the error message and think about what your code should be doing at that location. 
